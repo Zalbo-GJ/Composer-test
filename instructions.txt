@@ -1,0 +1,94 @@
+Certainly. I'll revise the instructions to explicitly focus on the main features of Pin Generator. Here's an updated set of instructions that emphasizes the core functionality:
+
+1. Project Setup:
+   - Initialize a new React project with Create React App
+   - Install and configure Tailwind CSS for styling
+   - Set up React Router for navigation
+   - Configure a state management solution (Redux or Context API)
+
+2. Core Layout:
+   - Use the images inside the designs folder to style the app accordingly
+   - Create a responsive header with logo and navigation menu
+   - Implement a footer with copyright info and essential links
+   - Design a main content area component
+
+
+3. Home Page:
+   - Develop a hero section explaining Pin Generator's purpose
+   - Create sections highlighting the main features
+
+4. Generate Pinterest Pins (Main Feature):
+   - Develop a pin creation interface with:
+     - Title and description inputs
+     - Image upload functionality (support multiple images)
+     - Template selection re
+     - Custom text and element placement options
+   - Implement a canvas-based pin editor for custom designs
+   - Create a pin preview functionality
+   - Add a bulk generation feature for multiple pins
+
+5. Schedule Pinterest Pins (Main Feature):
+   - Design a calendar interface for selecting posting dates and times
+   - Implement a queue system for scheduled pins
+   - Add options for recurring pin schedules
+   - Create a dashboard for managing scheduled pins
+
+6. Create Your Own Templates (Main Feature):
+   - Develop a template editor interface with drag-and-drop functionality
+   - Implement text editing, image placement, and styling options
+   - Create a system for saving and managing custom templates
+
+7. Pinterest Keyword Research Tool (Main Feature):
+   - Design a search interface for keyword input
+   - Implement a display system for showing related keywords, popularity, and trends
+   - Add options for saving and organizing keyword research
+
+8. Pinterest Trend Alerts (Main Feature):
+   - Create an interface for users to set up trend alerts
+   - Implement a mock notification system for alerting users about trends
+   - Develop a dashboard for managing and viewing trend alerts
+
+9. Create Pinterest Catalogs (Main Feature):
+   - Design an interface for creating and managing product catalogs
+   - Implement product import functionality (manual and mock bulk import)
+   - Create a system for organizing products into collections
+
+10. Pin History (Main Feature):
+    - Develop a dashboard for viewing previously created and posted pins
+    - Implement mock analytics tracking (views, clicks, saves)
+    - Create visualizations for pin performance data
+
+11. User Authentication:
+    - Implement user registration and login functionality
+    - Create a user dashboard for managing account and pins
+
+12. Integrations (Focus on Core Integrations):
+    - Implement a simple RSS feed integration for content sourcing
+    - Create placeholder interfaces for Etsy and Shopify product imports
+    - Design a basic interface for WordPress integration
+
+13. Educational Resources:
+    - Create pages for "How to use Pin Generator" and "Beginners guide"
+    - Implement a simple blog section for Pinterest marketing tutorials
+
+14. Responsive Design:
+    - Ensure all components and pages are mobile-friendly
+    - Use Tailwind's responsive classes to adjust layouts for different screen sizes
+
+15. Error Handling and Validation:
+    - Implement input validation for all forms
+    - Create user-friendly error messages and success notifications
+
+16. Performance Optimization:
+    - Implement lazy loading for images and components
+    - Use React.memo or useMemo for expensive computations
+
+17. Basic SEO:
+    - Add meta tags for each page
+    - Implement proper heading structure
+
+18. Testing:
+    - Perform unit tests for key components
+    - Conduct user acceptance testing for main features
+
+These instructions focus on implementing the main features of Pin Generator, ensuring that the core functionality is prioritized in the React application. The AI should create a functional front-end that closely mimics the primary features and user experience of https://pingenerator.com/, using mock data where necessary to simulate backend interactions.
